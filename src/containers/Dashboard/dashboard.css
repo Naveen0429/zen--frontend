@@ -1,0 +1,41 @@
+
+
+.dashBoardContainer {
+
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-bottom: 20px;
+    position: absolute;
+    left: 105px;
+    height: -webkit-fill-available;;
+    width: calc(100% - 105px);
+    position: absolute;
+    scrollbar-width: thin;
+    margin-top: 20px;
+    
+}
+
+
+
+.courseChartWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 30px;
+}
+
+.courseStatusCharts {
+    display: grid;
+}
+
+.courseStatusCharts h2,
+.taskChartWrapper h2 {
+    color:whitesmoke;
+    margin-bottom: 0;
+    margin-left:250px;
+}
+
+.taskChartWrapper h2 {
+    width: 350px;
+    margin: 40px 60px 
+}

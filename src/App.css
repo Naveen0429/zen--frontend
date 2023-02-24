@@ -1,0 +1,29 @@
+/* .App{
+    display : flex;
+    height: fit-content;
+} */
+
+.bodyContainer {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 30px;
+    /* height: 100vh; */
+    overflow: hidden;
+    position: relative;
+}
+  
+  
+.appContainer { 
+    overflow: hidden;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: max-content 1fr;
+}
+
+.loginContainer {
+    height: 100vh;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}

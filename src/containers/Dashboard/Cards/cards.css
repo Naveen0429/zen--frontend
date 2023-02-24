@@ -1,0 +1,49 @@
+.dashBoardCardContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.dashBoardcard0,
+.dashBoardcard1,
+.dashBoardcard2 {
+    width: 300px;
+}
+
+.dashBoardCardContent  {
+    color: white;
+}
+
+.dashBoardCardContent h4 {
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.dashBoardCardContent h1 {
+    margin: 0;
+}
+
+.dashBoardCardContent img {
+    width: 40px;
+    height: 40px;
+}  
+
+.dashboardCardContainer {
+    display: flex;
+    justify-content: start;
+    gap: 30px;
+}
+
+.dashboardCardContainer .dashBoardcard0 {
+    background: linear-gradient(132deg, rgb(59, 55, 106) 0.00%, rgb(0, 143, 186) 32.66%, rgb(255, 149, 213) 100.00%);
+}
+
+.dashboardCardContainer .dashBoardcard1 {
+    background: linear-gradient(72deg, rgb(44, 222, 242) 0.00%, rgb(156, 43, 171) 69.32%, rgb(39, 43, 44) 100.00%);
+    /* background-image: linear-gradient(to right,#00b09b, #96c93d); */
+}
+
+.dashboardCardContainer .dashBoardcard2 {
+
+    background: linear-gradient(139deg, rgb(0, 255, 157) 0.00%, rgb(227, 43, 175) 87.21%);
+}
