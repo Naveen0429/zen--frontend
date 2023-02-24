@@ -44,7 +44,7 @@ export function ForgotPassword(){
             <form className="fpContent" onSubmit={(e) => onProceed(e)}>
                 <div className="logo">
                     <div className="logoText">
-                        <span>ZEN CLASS</span>
+                        <span>ZEN DASHBOARD</span>
                         STUDENT
                     </div>
                 </div>

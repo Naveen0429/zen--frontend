@@ -80,7 +80,7 @@ export function SignUp() {
             <form className="signupContent" onSubmit={(e) => onSignUp(e)}>
                 <div className="logo">
                     <div className="logoText">
-                        <span>ZEN CLASS</span>
+                        <span>ZEN DASHBOARD</span>
                         STUDENT
                     </div>
                 </div>
