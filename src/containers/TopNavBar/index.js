@@ -14,7 +14,7 @@ export function TopNavBar() {
     <div className="topNavContainer">
         <div className="logo">
             <div className="logoText1">
-                <span>ZEN CLASS</span>
+                <span>ZEN DASHBOARD</span>
                 STUDENT
             </div>
         </div>

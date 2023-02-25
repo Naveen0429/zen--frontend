@@ -7,14 +7,14 @@
 }
 
 .logoText1{
-    color:white !important;
+    color: greenyellow!important;
     border: 1px solid white!important;
     padding: 4px;
     width: fit-content;
 }
 
 .logoText1 span {
-    background: black;
+    background: cornflowerblue;
     padding: 0 4px;
     width: fit-content;
     color: #fff;
@@ -31,7 +31,7 @@
     text-align: center;
     line-height: 40px;
     text-transform: capitalize;;
-    background-color:blue;
+    background-color: goldenrod;
 }
 
 .userWrapper {
@@ -60,7 +60,7 @@
 .topNavContainer {
     display: flex;
     justify-content: space-between;
-    background-image: linear-gradient(to right, #434343 50%, black 100%);
+    background-image: linear-gradient(132deg, rgb(2, 67, 73) 0.00%, rgb(17, 158, 197) 100.00%);
     padding: 20px 36px;
     color: white;
     padding-left: 20px;

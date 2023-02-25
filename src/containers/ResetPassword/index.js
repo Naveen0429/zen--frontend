@@ -58,7 +58,7 @@ export function ResetPassword(){
             <form className="resetContent" onSubmit={(e) => onReset(e)}>
                 <div className="logo">
                     <div className="logoText">
-                        <span>ZEN CLASS</span>
+                        <span>ZEN DASHBOARD</span>
                         STUDENT
                     </div>
                 </div>
